@@ -1,0 +1,11 @@
+nama = input("siapa namamu?:")
+sekolah = input ("sekolah dimana?:")
+kelas = input("kelas berapa sekarang?:")
+jurusan = input("masuk jurusan mana?")
+hobi = input("hobi kamu apa?:")
+umur = input("umur kamu berapa?:")
+makanan =  input("suka makanan apa?:")
+game = input("game favoritmu apa?:")
+hero = input("hero favoritmu apa?:")
+tim = input("tim favoritmu apa?:")
+print ("halo, nama saya",nama , "saya bersekolah di",sekolah,"saya kelas",kelas,"dan saya masuk jurusan",jurusan,",hobi saya itu",hobi,"umur saya",umur,"makanan favorit saya adalah",makanan,"game favorit saya adalah",game,"hero yang sering saya gunakan itu",hero,"tim favorit saya itu",tim)3
